@@ -1,0 +1,23 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSNU-Bighead/Express.git"
+  },
+  "author": "wn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSNU-Bighead/Express/issues"
+  },
+  "homepage": "https://github.com/JSNU-Bighead/Express#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
